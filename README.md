@@ -45,6 +45,17 @@ Bot:  John Doe assigned to seat 1A on flight AI203.
 
 User: Do I need a visa for Spain?
 Bot:  Yes, Schengen visa required. Documents needed: application form, passport photo, 6 months validity...
+
+
+
+example
+## 📸 Demo
+
+![Screenshot 1](screenshots/Screenshot%202026-06-29%20210128.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-06-29%20210736.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-06-29%20212446.png)
 ```
 
 ## 🛠️ Tech Stack
