@@ -1,0 +1,8 @@
+venv/
+.env
+db_data/
+travel_vectorstore/
+__pycache__/
+*.pyc
+.adk/
+*.db
