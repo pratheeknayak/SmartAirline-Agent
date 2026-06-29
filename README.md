@@ -48,7 +48,6 @@ Bot:  Yes, Schengen visa required. Documents needed: application form, passport 
 
 
 
-ScreenShots of Outputs
 ## 📸 Demo
 
 ![Demo 1](screenshots/demo1.png)
