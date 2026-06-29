@@ -1,6 +1,4 @@
-Copy and paste this entire block into your GitHub README editor:
 
----
 
 # SmartAirline-Agent ✈️
 > An intelligent airline customer service chatbot powered by **Google ADK**, **Multi-Agent Architecture**, and **RAG** — built entirely from scratch.
@@ -78,6 +76,3 @@ Open `http://127.0.0.1:8000` and select Supervisor_Agent.
 ## 📌 Objective
 Demonstrates how **Generative AI**, **Multi-Agent Systems**, and **RAG** can build scalable, production-ready intelligent customer service solutions for the airline industry.
 
----
-
-Then click **Commit changes**.
