@@ -1,6 +1,4 @@
-Copy everything between the lines and paste directly into GitHub README editor:
 
----
 
 # SmartAirline-Agent ✈️
 > An intelligent airline customer service chatbot powered by **Google ADK**, **Multi-Agent Architecture**, and **RAG** — built entirely from scratch.
@@ -99,4 +97,4 @@ Demonstrates how **Generative AI**, **Multi-Agent Systems**, and **RAG** can bui
 
 ---
 
-Click **Commit changes** after pasting.
+
